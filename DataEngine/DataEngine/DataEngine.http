@@ -1,0 +1,6 @@
+@DataEngine_HostAddress = http://localhost:5019
+
+GET {{DataEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
